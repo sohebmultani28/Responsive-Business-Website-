@@ -1,4 +1,7 @@
 # Responsive-Business-Website-
+ALL CODE IS Business.HTML FILE
+
+PICHER OF THE PROJECT 
 
 ![Screenshot 2024-08-13 145100](https://github.com/user-attachments/assets/fc692a1d-a672-43d1-88db-f486cc97c3d9)
 ![Screenshot 2024-08-13 145115](https://github.com/user-attachments/assets/968601ee-999f-441d-b0f0-50e05ec8d106)
